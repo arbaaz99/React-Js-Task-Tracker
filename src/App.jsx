@@ -38,7 +38,7 @@ function App() {
       {/* <h1>Hello from react</h1> */}
       {/* <h2> Hello {x ? "yes" : "no"}</h2> */}
       <Header
-        propsTitle="Task Tracker 2"
+        propsTitle="Task Tracker"
         propsOnToggleShowAdd={toggleShowAdd}
         propsShowAdd={showAdd}
       />
